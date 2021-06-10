@@ -14,7 +14,7 @@
     "format-number": "^3.0.0",
     "http": "0.0.0",
     "is-reachable": "^2.4.0",
-    "locutus": "^2.0.10",
+    "locutus": "^2.0.15",
     "node-gyp": "^5.0.3",
     "nodemailer": "^4.7.0",
     "ping": "^0.2.2",
